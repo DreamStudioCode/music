@@ -4,6 +4,6 @@
 
 ## Sample Generations
 
-- ai/stability/themes/forest: find in this folder the generation samples for the following prompts:
+- `ai/stability/themes/forest`: find in this folder the generation samples for the following prompts:
   - Relaxing background symphony about restoring tree canopy with occasional subtle sounds from the forest off the coast of France.
   - Relaxing background symphony about restoring tree canopy with occasional subtle sounds from the forest on Mountain Ida on the Greek island of Crete in the year 1400 BCE.
